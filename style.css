@@ -9,18 +9,18 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: #a3d1ff;
+  background: #280976;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Spartan, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
 }
 
 .player-container {
   height: 510px;
   width: 410px;
-  background: #38acff;
+  background: #d91431;
   border-radius: 20px;
   box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
 }
@@ -56,7 +56,7 @@ h3 {
 
 /* Progress */
 .progress-container {
-  background: rgb(255, 111, 9);
+  background: rgb(33, 254, 154);
   border-radius: 5px;
   cursor: pointer;
   margin: 40px 20px;
@@ -65,7 +65,7 @@ h3 {
 }
 
 .progress {
-  background: #242323;
+  background: #4a4949;
   border-radius: 5px;
   height: 100%;
   width: 0%;
@@ -89,7 +89,7 @@ h3 {
 
 .fas {
   font-size: 30px;
-  color: rgb(255, 195, 195);
+  color: rgb(115, 138, 25);
   margin-right: 30px;
   cursor: pointer;
   user-select: none;
@@ -100,7 +100,7 @@ h3 {
 }
 
 .main-button {
-  font-size: 40px;
+  font-size: 45px;
   position: relative;
   top: 3px;
 }
