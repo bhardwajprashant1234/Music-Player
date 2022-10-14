@@ -9,7 +9,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: #063f79;
+  background: #199939;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ body {
 .player-container {
   height: 510px;
   width: 410px;
-  background: #16913f;
+  background: #b3a52e;
   border-radius: 20px;
   box-shadow: 0 15px 30px 5px rgba(212, 16, 16, 0.3);
 }
@@ -65,7 +65,7 @@ h3 {
 }
 
 .progress {
-  background: #f50b0b;
+  background: #a82187;
   border-radius: 5px;
   height: 100%;
   width: 0%;
